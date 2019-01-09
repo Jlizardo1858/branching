@@ -3,4 +3,4 @@ Change Fake editing.
 Pink:
 Now if you look back in Finder, you will be able to see that this file has been created inside your "Art history" folder. It is currently empty, but you can open it at anytime from Terminal to edit the contents as you normally would:
 
-Editing on this file.
+
